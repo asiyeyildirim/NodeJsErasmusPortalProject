@@ -1,0 +1,25 @@
+
+
+Paketler:
+
+npm i react-bootstrap,
+npm install express bootstrap cors mysql axios react-router-dom,
+npm i axios,
+npm i react-slider,
+npm i fa-icons,
+npm i sweetalert2
+
+
+Şifre güncelleme alanı Sidebar alt panelde yer alıyor.
+
+
+Form güncellemeyi ise "Başvuru Görüntüle" sayfamda bir buton ile yaptım fakat şöyle bir sorunum var hocam:
+
+-> Parametre olarak o an görüntülenen kayıtta kullandığım id'yi direkt almak istediğimde sorun yaşadım güncellemeyi sadece "Başvuru Görüntüle" sayfamda görsel olarak görebiliyorum,
+ basvuran_id'yi cekemediği icin veritabanına yansımıyor.
+->basvuran_id'yi sorgudaki gibi manuel yazdığımda veritabanında da güncellemeyi yapabiliyorum.
+
+
+server klasörümde ise 2 adet app.js dosyam mevcut.Tabloların create işlemi icin önce app2.js calıştırabilirsiniz.
+
+
